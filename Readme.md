@@ -26,4 +26,3 @@ This is a SwiftUI application designed to fetch and display meal details using t
     ```
 
 3. Build and run the project in Xcode.
-"""
